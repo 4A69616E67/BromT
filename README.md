@@ -1,7 +1,7 @@
 # BromT
 Binary reverse order Translator
 
-##usage
+## usage
 test.exe 12
-###output
+### output
 3
